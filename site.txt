@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redes Sociais</title>
+    <style>
+        /* Estilos CSS */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+        }
+        .social-links {
+            margin-bottom: 20px;
+        }
+        .email {
+            margin-top: 20px;
+        }
+        a {
+            display: block;
+            margin-bottom: 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        a:hover {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="social-links">
+            <h2>Redes Sociais</h2>
+            <a href="https://wa.me/5544984262717" target="_blank">WhatsApp: (44) 98426-2717</a>
+            <a href="https://www.instagram.com/jp_interiores_design/" target="_blank">Instagram: @jp_interiores_design</a>
+        </div>
+        <div class="email">
+            <h2>Email</h2>
+            <p>Envie um e-mail para: <a href="mailto:jpaulol2010@gmail.com">jpaulol2010@gmail.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
